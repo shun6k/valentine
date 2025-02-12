@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Do you like me? Choose wisely ;)",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Swee la, I LOVE YOUU 🎉💝💖💝💓",
-        message: "February 14 AT 1:00 PM",
-        message: "At Jurong East",
+        message: "February 14th AT 1:00 PM",
+        Location: "At Jurong East",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
