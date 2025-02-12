@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW You love me that much?? MARRY ME! 🥰💝",  // Shows when they go past 5000%
+        high: "YAYYYYYYYYY 💝",              // Shows when they go past 1000%
+        normal: "so less? 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Swee la, I LOVE YOUU 🎉💝💖💝💓",
-        message: "February 14th AT 1:00 PM",
+        title: "Steady laaa, I LOVE YOUU HEHE 🎉💝💖💝💓",
+        message: "February 14th AT 1:00 PM @ Jurong East!",
         Location: "At Jurong East",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
